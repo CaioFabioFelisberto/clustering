@@ -1,4 +1,4 @@
-# Estudos de Clusterizacao
+# Estudos de Clusterização
 
 Projeto de estudos praticos de aprendizado de maquina nao supervisionado com
 Python. Os exemplos aplicam diferentes tecnicas de agrupamento a dados de
