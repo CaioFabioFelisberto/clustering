@@ -1,8 +1,23 @@
 # Estudos de Clusterização
 
-Projeto de estudos praticos de aprendizado de maquina nao supervisionado com
-Python. Os exemplos aplicam diferentes tecnicas de agrupamento a dados de
-musicas, jogadores de futebol e uso de recursos de um sistema.
+## Proposta do projeto
+
+Este projeto demonstra, de forma pratica, como usar tecnicas de aprendizado de
+maquina nao supervisionado para descobrir grupos e comportamentos semelhantes
+em dados que nao possuem categorias previamente definidas. A proposta objetiva
+e comparar tres estrategias de clusterizacao e observar como cada uma organiza
+os registros:
+
+- criar playlists a partir da semelhanca entre musicas;
+- identificar perfis taticos semelhantes entre jogadores de futebol;
+- separar comportamentos normais de possiveis anomalias no uso de um sistema.
+
+Os dados sao ficticios e o repositorio tem finalidade didatica: cada exemplo
+gera ou utiliza um conjunto de dados, aplica o algoritmo de agrupamento,
+apresenta os grupos encontrados e oferece uma visualizacao quando aplicavel.
+Assim, o projeto serve para estudar a diferenca entre agrupamento por
+centroides, por densidade e hierarquico, incluindo a importancia de padronizar
+as variaveis antes da analise.
 
 ## Tecnicas estudadas
 
