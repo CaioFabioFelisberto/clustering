@@ -19,7 +19,7 @@ evitando que uma feature domine as demais por estar em uma escala diferente.
 ## Estrutura
 
 ```text
-clusterizacao/
+clustering/
 |-- data/
 |   |-- jogadores.csv
 |   |-- musicas.csv
