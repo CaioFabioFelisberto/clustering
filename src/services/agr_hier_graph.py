@@ -24,7 +24,7 @@ dendrogram(
     leaf_font_size=10,
 )
 
-plt.title('🌳 Dendrograma de Scout: Achando Clones Táticos para o Verdão  Palmeirense 🐷', fontsize=12, fontweight='bold')
+plt.title('Dendrograma de Scout: Achando Clones Táticos para o Palmeiras', fontsize=12, fontweight='bold')
 plt.xlabel('Jogadores')
 plt.ylabel('Distância Euclidiana (Dificuldade de Fusão)')
 plt.grid(axis='y', linestyle='--', alpha=0.7)
